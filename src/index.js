@@ -1,4 +1,6 @@
-import pageLoad from "./page-load";
+import home from "./home";
 import "./style.css";
+import pageSetup from "./page-setup";
 
-pageLoad();
+pageSetup();
+home();

@@ -1,6 +1,6 @@
 import Pasta from "./pasta.jpg";
 
-export default function pageLoad() {
+export default function home() {
     const content = document.querySelector("div#content");
 
     const headline = document.createElement("h1");
